@@ -26,11 +26,12 @@ Features
 
 
 
+
 Example
 ------------
 
-Use the following example as the documentation.
 
+See the corresponding [code pen here](http://codepen.io/anon/pen/YqGNzX)
 
 
 ```html
@@ -39,7 +40,7 @@ Use the following example as the documentation.
 <head>
     <meta charset="utf-8"/>
     <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="/libs/jchronometer/js/jchronometer.js"></script>
+    <script type="text/javascript" src="https://cdn.rawgit.com/lingtalfi/jChronometer/master/www/libs/jchronometer/js/jchronometer.js"></script>
     <title>Html page</title>
 </head>
 
@@ -91,6 +92,8 @@ Use the following example as the documentation.
 </body>
 </html>
 ```
+
+Use this example as the documentation.
 
 
 
