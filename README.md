@@ -1,4 +1,4 @@
-jChronometer
+JChronometer
 ================
 2016-03-13
 
@@ -8,7 +8,7 @@ A javascript chronometer.
 
 
 
-jChronometer can be installed as a [planet](https://github.com/lingtalfi/Observer/blob/master/article/article.planetReference.eng.md).
+JChronometer can be installed as a [planet](https://github.com/lingtalfi/Observer/blob/master/article/article.planetReference.eng.md).
 
 
 
@@ -101,6 +101,7 @@ Use this example as the documentation.
 
 History Log
 ------------------
+    
     
 - 1.0.0 -- 2016-03-13
 
